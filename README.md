@@ -17,7 +17,7 @@ wtf, atlest just fuking ⭐ star ⭐ it
 
 ## Docs
 Commands -:
-```apt update && apt upgrade && pkg install python && pip install colorama && pip install requests && pip install telethon && pip install licensing && pip install rich
+```apt update && apt upgrade && pkg install python && pip install colorama && pip install requests && pip install telethon && pip install licensing && pip install rich```
 
 ## • API Setup
 * Go to http://my.telegram.org  and log in.
