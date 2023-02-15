@@ -16,8 +16,40 @@ This python tool help you scrape telegram members and add to your O n group or c
 wtf, atlest just fuking ⭐ star ⭐ it
 
 ## Docs
+Commands -:
+```apt update && apt upgrade && pkg install python && pip install colorama && pip install requests && pip install telethon && pip install licensing && pip install rich
 
-\--- ## • API Setup \* Go to http://my.telegram.org and log in. \* Click on API development tools and fill the required fields. \* put app name you want & select other in platform Example : \* copy "api\_id" & "api\_hash" after clicking create app ( will be used in setup.py ) ## • How To Install and Use In Termux \`$ pkg up -y\` \`$ pkg install python -y\` \`$ pkg install git\` \`$ git clone https://github.com/cyberassemble/tg-members-scraper\` \`$ tg-members-scraper\` \* Install requierments & Setup Configuration File. ( apiID, apiHash ) \`$ python setup.py\` \* To Scarpe members from group. \`$ python scraper.py\` \* Add Scarped members to your group. \`$ python adder.py\` ## • Watch Video Tutorial From Below \* https://youtu.be/hNztfzMMPOc ---
+## • API Setup
+* Go to http://my.telegram.org  and log in.
+* Click on API development tools and fill the required fields.
+* put app name you want & select other in platform Example :
+* copy "api_id" & "api_hash" after clicking create app ( will be used in setup.py )
+
+## • How To Install and Use In Termux
+
+`$ pkg up -y`
+
+`$ pkg install python -y`
+
+`$ pkg install git`
+
+`$ git clone https://github.com/cyberassemble/tg-members-scraper`
+
+`$ cd tg-members-scraper`
+
+* Install requierments & Setup Configuration File. ( apiID, apiHash )
+
+`$ python setup.py`
+
+* To Scarpe members from group.
+
+`$ python scraper.py`
+
+* Add Scarped members to your group. 
+
+`$ python adder.py`
+
+## • Watch Video Tutorial
 
 Follow Us On
 
